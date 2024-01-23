@@ -6,7 +6,7 @@ This project is the result of the submission for the [Belajar Dasar Pemrograman 
 
 - Utilizes HTML, CSS, and JavaScript to create an interactive web page.
 - Introduces who Roselia is and its members.
-- Lists Roselia's songs from Spotify.
+- Lists Tuyu's songs from Spotify.
 
 ## Technologies Used
 
