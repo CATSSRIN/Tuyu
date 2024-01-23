@@ -1,44 +1,38 @@
 let card = document.querySelectorAll('.card');
-for (cards of card) {
-    cards.addEventListener('mouseover', function (event) {
-        if (event.target.id === "yukina-chibi") {
-            event.target.setAttribute("src", "assets/images/yukina-2.png");
+for (card of card) {
+    card.addEventListener('mouseover', function (event) {
+        if (event.target.id === "pusu") {
+            event.target.setAttribute("src", "assets/images/twitter-1.png");
             return;
-        } else if (event.target.id === "sayo-chibi") {
-            event.target.setAttribute("src", "assets/images/sayo-2.png");
+        } else if (event.target.id === "rei") {
+            event.target.setAttribute("src", "assets/images/instagram.png");
             return;
-        } else if (event.target.id === "ako-chibi") {
-            event.target.setAttribute("src", "assets/images/ako-2.png");
-            return;
-        } else if (event.target.id === "rinko-chibi") {
-            event.target.setAttribute("src", "assets/images/rinko-2.png");
-            return;
-        } else if (event.target.id === "lisa-chibi") {
-            event.target.setAttribute("src", "assets/images/lisa-2.png");
+        } else if (event.target.id === "miro") {
+            event.target.setAttribute("src", "assets/images/twitter-1.png");
             return;
         }
     });
 
-    cards.addEventListener('mouseout', function (event) {
-        if (event.target.id === "yukina-chibi") {
-            event.target.setAttribute("src", "assets/images/yukina-1.png");
+            
+
+    card.addEventListener('mouseout', function (event) {
+        if (event.target.id === "pusu") {
+            event.target.setAttribute("src", "assets/images/Pusu-1.png");
             return;
         }
-        if (event.target.id === "sayo-chibi") {
-            event.target.setAttribute("src", "assets/images/sayo-1.png");
+        if (event.target.id === "rei") {
+            event.target.setAttribute("src", "assets/images/Rei-1.png");
             return;
         }
-        if (event.target.id === "ako-chibi") {
-            event.target.setAttribute("src", "assets/images/ako-1.png");
+        if (event.target.id === "miro") {
+            event.target.setAttribute("src", "assets/images/Miro-1.png");
             return;
         }
-        if (event.target.id === "rinko-chibi") {
-            event.target.setAttribute("src", "assets/images/rinko-1.png");
-            return;
-        }
-        if (event.target.id === "lisa-chibi") {
-            event.target.setAttribute("src", "assets/images/lisa-1.png");
-            return;
-        }
+        
     });
+
 }
+
+
+
+
