@@ -5,6 +5,7 @@ This project is the result of the submission for the [Belajar Dasar Pemrograman 
 ## Features
 
 - Utilizes HTML, CSS, and JavaScript to create an interactive web page.
+- when you press the members picture it will bring you to their social page
 - Introduces who Tuyu is and its members.
 - Lists Tuyu's songs from Spotify.
 
