@@ -2,6 +2,8 @@
 
 This project is the result of the submission for the [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123) course at Dicoding. It's a website that introduces Tuyu.
 
+🗒️ [Sertifikat Kompetensi Kelas Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/6RPNVYN98Z2M)
+
 ## Features
 
 - Utilizes HTML, CSS, and JavaScript to create an interactive web page.
